@@ -1,5 +1,6 @@
-application:
-  name: Spring-Config
+spring:
+  application:
+    name: Spring-Config
 
 eureka:
   instance:
