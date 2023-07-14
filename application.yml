@@ -10,3 +10,5 @@ eureka:
     register-with-eureka: true
     service-url:
       defaultZone: http://localhost:8761/eureka
+
+service.provider.url= http://localhost:7000/department/getall
